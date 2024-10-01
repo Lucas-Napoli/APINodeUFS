@@ -16,3 +16,5 @@ Thumbs.db
 dist/
 *.out
 
+# Ignorar o package-lock.json
+package-lock.json
